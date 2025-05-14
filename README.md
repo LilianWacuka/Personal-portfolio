@@ -1,5 +1,5 @@
 Here's the guidance.
-**N/B**: And under interests it means I want to learn more and not exactly an expert
+
 # Lilian's Personal Web Portfolio
 
 ## Description

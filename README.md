@@ -13,7 +13,6 @@ This is a personal portfolio website showcasing my skills, projects, education, 
 - **Projects Section**: Display of my past projects with images and links.
 - **Skills Section**: List of technical skills in web development and design.
 - **Interests Section**: Highlighting areas of interest and expertise.
-- **N/B**: And under interests it means I want to learn more and not exactly an expert
 - **Contact Section**: Provides options to reach out via email and phone.
 
 ## Technologies Used
